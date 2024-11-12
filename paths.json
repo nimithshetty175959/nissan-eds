@@ -1,11 +1,11 @@
 {
   "mappings": [
-    "/content/eds-poc/:/",
-    "/content/eds-poc/configuration:/.helix/config.json",
-    "/content/eds-poc/metadata:/metadata.json"
+    "/content/nissan-eds/:/",
+    "/content/nissan-eds/configuration:/.helix/config.json",
+    "/content/nissan-eds/metadata:/metadata.json"
   ],
   "includes": [
     "/content/aem-boilerplate/",
-    "/content/eds-poc/"
+    "/content/nissan-eds/"
   ]
 }
