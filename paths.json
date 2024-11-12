@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/nissan-eds/:/",
-    "/content/nissan-eds/configuration:/.helix/config.json",
-    "/content/nissan-eds/metadata:/metadata.json"
+    "/content/aem-boilerplate/:/",
+    "/content/aem-boilerplate/configuration:/.helix/config.json",
+    "/content/aem-boilerplate/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/nissan-eds/"
+    "/content/aem-boilerplate/"
   ]
 }
